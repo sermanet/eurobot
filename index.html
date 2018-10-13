@@ -1,0 +1,191 @@
+<html><!--?
+      $dir = getcwd();
+      chdir("..");
+      $page_name = "EUROBOT CONTEST 2004";
+      require("logs.inc.php"); 
+      chdir($dir);
+    ?--><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+  <title>EUROBOT CONTEST 2004: Epita's Autonomous Robot Overview</title>
+</head>
+<body style="margin-bottom: 31px;" data-_extension-text-contrast="">
+  <div align="center"><center>
+  <table cellspacing="0" cellpadding="0" border="0">
+    <tbody><tr>
+      <td rowspan="2" align="right"><img src="images/title2.jpg"></td>
+      <td><p align="center"><big><big><big><strong>EUROBOT 2004:</strong></big></big></big></p></td>
+    </tr>
+    <tr>
+      <td><p align="center"><big><big><big><strong><font data-_extension-text-contrast="bg" color="#000080">EPITA's Robot Overview</strong></big></big></big></font></p></td>
+    </tr>
+  </tbody></table>
+  <br><table width="779" height="1492" cellspacing="0" cellpadding="0" border="0">
+  
+  <tbody><tr>
+    <td width="378" valign="top" height="256">&nbsp;<p><big><strong>1. The Contest: <font data-_extension-text-contrast="bg" color="#000080">international robotics contest</font></strong></big></p>
+    <p></p><ul type="square">
+      <li type="square">Since 1998, Eurobot is an international robotics contest.</li>
+      <li>Eurobot takes place in Europe but also welcomes countries from other continents.</li>
+      <li>2004: <strong>21 countries</strong>, represented by <strong>250 teams</strong>.</li>
+      <li>New rules each year.</li>
+    </ul>
+    </td>
+    <td><a name="stage"><img src="images/robots_on_stage.jpg"></a></td>
+  </tr>
+  <tr>
+    <td width="378" valign="top" height="256">&nbsp;<p><big><strong>2. Rules: <font data-_extension-text-contrast="bg" color="#000080">rugby
+    match</font></strong></big></p>
+    <p></p><ul type="square">
+      <li type="square"><strong>2 robots</strong>, 14 rugby balls, 2 random palm trees on the playground.</li>
+	  <li><strong>90 seconds</strong> matchs.</li>
+      <li>The winner is the robot that has put more balls in the blue area or in the net.</li>
+      <li>The robots can carry only 3 balls simultaneously.</li>
+    </ul>
+    </td>
+    <td width="390" height="256"><a name="playground"><img src="images/playground.jpg" v:shapes="_x0000_i1025" width="341" height="254"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"><a name="components"><big><strong>3. The Robot: <font data-_extension-text-contrast="bg" color="#000080">main components</font></strong></big></a>
+      <p align="center"><a href="images/Epita_robot_big.jpg" target="blank">
+      <img src="images/robot_description.jpg" alt="Robot Description" border="0"></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="377" valign="top" height="264">&nbsp;<p><big><strong>4. Movements: <font data-_extension-text-contrast="bg" color="#000080">a reactive robot</font></strong></big></p><ul>
+      <li type="square">This robot does not assume it is working on the Eurobot's board, and
+        therefore can evolve in an <strong>unknown environment</strong>.</li>
+    </ul>
+    <blockquote>
+      <p>The <strong>best trajectory</strong> is calculated in <strong>real
+      time</strong> according to: </font></p>
+    </blockquote>
+    <blockquote>
+      <ul>
+        <li>the distances given by the 11 telemeters</li>
+        <li>the distances of the balls and trees given by the camera</li>
+      </ul>
+      <p>&nbsp;</p>
+    </blockquote>
+    </td>
+    <td width="343" height="264"><a name="braitenberg"><img src="images/braitenberg.jpg" alt="braitenberg" width="341" height="262"></a></td>
+  </tr>
+  <tr>
+    <td width="377" valign="top" height="24"><a href="images/shot_simu.jpg" target="_blank" name="simulator">
+      <img src="images/shot_simu_small.jpg" alt="3D simulator" width="341" height="256" border="0"></a></td>
+    <td width="380" valign="top">&nbsp;<p><big><strong>5. 3D Simulator: <font data-_extension-text-contrast="bg" color="#000080">testing
+    in good conditions</font></strong></big></p><ul>
+      <li type="square">A 3D simulator has been developped in <strong>C++ and OpenGl</strong> in order to check the theorical robot's behaviors.</font></li>
+      <li type="square">This simulator allows us to develop the robot's AI software when the real robot is not functionnal. </font></li>
+    </ul>
+
+    </td>
+  </tr>
+  <tr>
+    <td width="377" valign="top" height="24">&nbsp;<p><big><strong>6. Image processing: <font data-_extension-text-contrast="bg" color="#000080">balls and trees</font></strong></big></p><ul type="square">
+      <li type="square">Thanks to the video camera, the robot is able to <strong>locate red balls</strong> and to subsequently
+        head on towards the nearest red ball (blue areas are also detected in order to avoid them).</li>
+      <li>This robot can also <strong>avoid green trees</strong> according to their distance and direction.</li>
+      <li>As shown on the right hand side, this program has been developped in <strong>C++</strong> to set camera settings and to
+        check image processing results.</li>
+
+    </ul>
+    </td>
+    <td width="380" height="24"><a href="images/shot_balls.jpg" target="_blank"><img src="images/shot_balls_small.jpg" alt="img/shot_balls_small.jpg (29012 bytes)" width="341" height="266" border="0"></a></td>
+  </tr>
+  
+  
+  <tr>
+   <td colspan="3" valign="top">
+     <a name="movies"><p><big><strong>7. The robot movies: <font data-_extension-text-contrast="bg" color="#000080">watch it working !</font></strong></big></p></a>
+	
+	<table cellspacing="10" cellpadding="10" border="0">
+    <tbody><tr>
+
+	<td valign="top" align="center">
+  	  <a href="videos/robot_hangs_out.wmv">  	
+	    <img src="images/robot_hangs_out.jpg">
+	    Full AI shoots with 1 ball
+	  </a>
+	</td>
+	<td valign="top" align="center">
+  	  <a href="videos/robot_hangs_out2.wmv">  	
+	    <img src="images/robot_hangs_out2.jpg">
+	    Full AI scores with 2 balls
+	  </a>
+	</td>
+	<td valign="top" align="center">
+  	  <a href="videos/robot_wants_to_eat_red_balls.wmv">  	
+	    <img src="images/robot_wants_to_eats_red.jpg">
+	    Scheduling Algorithm demo
+	  </a>
+	</td>
+    </tr>
+	</tbody></table>
+	
+	
+	<br>
+    </td>
+  </tr>
+
+  <tr>
+   <td colspan="2" valign="top">
+    <a name="movies2"><p><big><strong>8. More movies</strong></big></p></a>
+  </td></tr>
+  <tr>
+   <td colspan="2" valign="top">
+    <p>(<strong>WMV format:</strong> use Windows Media Player or download WMV codec)</p>
+	
+	<table cellspacing="10" cellpadding="10" border="0">
+    <tbody><tr>
+	<td valign="top" align="center">
+  	  <a href="videos/rules.wmv">  	
+	    <img src="images/rules.jpg">
+	    <br>The rules
+	  </a>
+	</td>
+	<td valign="top" align="center">
+  	  <a href="videos/videocam.wmv">  	
+	    <img src="images/cam.jpg">
+	    Colour detection
+	  </a>
+	</td>
+	<td valign="top" align="center">
+  	  <a href="videos/robot_final_behavior.wmv">  	
+	    <img src="images/simulation.jpg">
+	    Reinforcement learning in the simulator
+	  </a>
+	</td>
+    </tr>
+    <tr>
+	<td valign="top" align="center">
+  	  <a href="videos/videocam2.wmv">  	
+	    <img src="images/cam_conf.jpg">
+	    Image processing configuration
+	  </a>
+	</td>
+	<td valign="top" align="center">
+  	  <a href="videos/robot_wants_to_eat_red_balls2.wmv">  	
+	    <img src="images/robot_wants_to_eats_red2.jpg">
+	    Scheduling, ball detection, firing
+	  </a>
+	</td>
+	</tr>
+	</tbody></table>
+	
+	<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="378" valign="top" height="258">
+      <a name="people">&nbsp;<p><big><strong>9. For more details:</strong></big></p></a><ul type="square"><a name="people"></a>
+
+      <li>Evolutek website: <a href="http://www.evolutek.org/" target="blank">http://www.evolutek.org</a></li>
+      <li>Email: pierre.sermanet [at] gmail.com</li>
+      <li>Email: philippe.rambert [at] protonmail.com</li>
+    </ul>
+    </td>
+    <td width="343" height="258"><img src="images/people.jpg"></td>
+  </tr>
+</tbody></table>
+</center></div>
