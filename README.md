@@ -1,3 +1,3 @@
 # eurobot
 
-Visit website by clicking here: sermanet.github.io/eurobot/
+Visit website by clicking <a href="sermanet.github.io/eurobot/">Here</a>
