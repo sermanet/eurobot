@@ -1,6 +1,4 @@
-# eurobot
-
-## EUROBOT 2004: EPITA's Robot Overview
+[Pierre Sermanet](https://sermanet.github.io/home/), Philippe Rambert, [Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/)<br>
 
 ![rules](videos/rules.gif)
 
