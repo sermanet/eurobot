@@ -48,7 +48,7 @@ The camera settings program has been developped in **C++** and allows the user t
 ![video_cam2](videos/videocam2.gif)
 ![video_cam](videos/videocam.gif)
 
-### Robot demonstrations
+### Robot behavior demonstrations
 
 ![robot_hangs_out](videos/robot_hangs_out.gif)
 ![robot_hangs_out2](videos/robot_hangs_out2.gif)
