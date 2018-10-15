@@ -48,10 +48,14 @@ The camera settings program has been developped in **C++** and allows the user t
 
 
 ![video_cam2](videos/videocam2.gif)
-
-Here the settings are fixed and the robot is started:
-
 ![video_cam](videos/videocam.gif)
+
+### Full AI demonstrations
+
+![robot_hangs_out](videos/robot_hangs_out.gif)
+![robot_hangs_out2](videos/robot_hangs_out2.gif)
+![robot_wants_to_eat_red_balls](videos/robot_wants_to_eat_red_balls.gif)
+![robot_wants_to_eat_red_balls2](videos/robot_wants_to_eat_red_balls2.gif)
 
 ### For more details:
 
