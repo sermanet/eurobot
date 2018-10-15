@@ -1,4 +1,4 @@
-[Pierre Sermanet](https://sermanet.github.io/home/), Philippe Rambert, [Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/)<br>
+[Pierre Sermanet](https://sermanet.github.io/home/), [Philippe Rambert](linkedin.com/in/philipperambert), [Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/), and the rest of the [Evolutek](http://www.evolutek.org) team<br>
 
 ![rules](videos/rules.gif)
 
@@ -54,14 +54,3 @@ The camera settings program has been developped in **C++** and allows the user t
 ![robot_hangs_out2](videos/robot_hangs_out2.gif)
 ![robot_wants_to_eat_red_balls](videos/robot_wants_to_eat_red_balls.gif)
 ![robot_wants_to_eat_red_balls2](videos/robot_wants_to_eat_red_balls2.gif)
-
-### For more details:
-
-Evolutek website: [Evolutek.org](http://www.evolutek.org)
-
-Email: pierre.sermanet [at] gmail.com
-
-Email: philippe.rambert [at] protonmail.com
-
-
-Visit the original static website by clicking <a href="https://sermanet.github.io/eurobot/">Here</a>
