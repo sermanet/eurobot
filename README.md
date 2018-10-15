@@ -11,7 +11,7 @@
 - 2004: **21 countries**, represented by **250 teams**.
 - New rules each year.
 
-![robots_on_stage](images/robots_on_stage.jpg)
+![robot_combo](images/robot_combo.jpg)
 
 ### Rules: rugby match on a tropical island
 
