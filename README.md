@@ -23,7 +23,6 @@
 ### The Robot: main components
 
 ![robot_description](images/robot_description.jpg)
-![epita_robot_big](images/Epita_robot_big.jpg)
 
 ### Movements: a reactive robot
 
