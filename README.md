@@ -1,4 +1,4 @@
-[Pierre Sermanet](https://sermanet.github.io/home/), [Philippe Rambert](linkedin.com/in/philipperambert), [Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/), and the rest of the [Evolutek](http://www.evolutek.org) team<br>
+[Pierre Sermanet](https://sermanet.github.io/home/), [Philippe Rambert](linkedin.com/in/philipperambert), [Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/) and the rest of the [Evolutek](http://www.evolutek.org) team<br>
 
 ![rules](videos/rules.gif)
 
