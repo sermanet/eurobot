@@ -30,13 +30,12 @@ The **best trajectory** is calculated in **real time** according to:
 - the distances of the balls and trees given by the camera
 
 ![braitenberg](images/braitenberg.jpg)
+![robot_final_behavior](videos/robot_final_behavior_360x288.gif)
 
 ### 3D Simulator: testing in good conditions
 
 A 3D simulator has been developped in **C++ and OpenGL** in order to check the theorical robot's behaviors.
 This simulator allows us to develop the robot's AI software when the real robot is not functionnal.
-
-![robot_final_behavior](videos/robot_final_behavior_360x288.gif)
 
 ### Image processing: balls and trees
 
