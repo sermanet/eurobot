@@ -2,7 +2,7 @@
 
 ## EUROBOT 2004: EPITA's Robot Overview
 
-![rules](videos/rules.gif)
+![rules](videos/rules_320_240.gif)
 
 ### Eurobot international robotics contest
 
@@ -38,7 +38,7 @@ The **best trajectory** is calculated in **real time** according to:
 A 3D simulator has been developped in **C++ and OpenGL** in order to check the theorical robot's behaviors.
 This simulator allows us to develop the robot's AI software when the real robot is not functionnal.
 
-![robot_final_behavior](videos/robot_final_behavior.gif)
+![robot_final_behavior](videos/robot_final_behavior_320_240.gif)
 
 ### Image processing: balls and trees
 
@@ -47,8 +47,8 @@ This robot can also **avoid green trees** according to their distance and direct
 The camera settings program has been developped in **C++** and allows the user to check image processing results.
 
 
-![video_cam2](videos/videocam2.gif)
-![video_cam](videos/videocam.gif)
+![video_cam2](videos/videocam2_320_240.gif)
+![video_cam](videos/videocam_320_240.gif)
 
 ### Full AI demonstrations
 
