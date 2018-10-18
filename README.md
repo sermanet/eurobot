@@ -1,7 +1,7 @@
 [Pierre Sermanet](https://sermanet.github.io/home/), [Philippe Rambert](https://www.linkedin.com/in/philipperambert), [Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/) and the rest of the [Evolutek](http://www.evolutek.org) team<br>
 
 ![rules_video](videos/rules_320_240_faster_0_3.gif)
-Click [here](videos/rules.wmv) to download the video explaining the rules.
+Click [here](videos/rules_320_240.wmv) to download the video explaining the rules.
 
 
 ### Eurobot international robotics contest
