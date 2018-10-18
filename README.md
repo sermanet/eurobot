@@ -1,6 +1,6 @@
 [Pierre Sermanet](https://sermanet.github.io/home/), [Philippe Rambert](https://www.linkedin.com/in/philipperambert), [Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/) and the rest of the [Evolutek](http://www.evolutek.org) team<br>
 
-![rules](videos/rules_320_240.gif)
+![rules_video](videos/rules_320_240_faster_0_3.gif)
 
 ### Eurobot international robotics contest
 
