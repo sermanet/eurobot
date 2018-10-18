@@ -1,8 +1,5 @@
 [Pierre Sermanet](https://sermanet.github.io/home/), [Philippe Rambert](https://www.linkedin.com/in/philipperambert), [Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/) and the rest of the [Evolutek](http://www.evolutek.org) team<br>
-
-![rules_video](videos/rules_320_240_faster_0_3.gif)
-Click [here](videos/rules.wmv) to download the video explaining the rules.
-
+<br>
 
 ### Eurobot international robotics contest
 
@@ -14,6 +11,9 @@ Click [here](videos/rules.wmv) to download the video explaining the rules.
 ![robot_combo](images/robot_combo.jpg)
 
 ### Rules: rugby match on a tropical island
+
+![rules_video](videos/rules_320_240_faster_0_3.gif)<br>
+Click [here](videos/rules.wmv) to download the video explaining the rules.
 
 - **2 robots**, 14 rugby balls, 2 random palm trees on the playground.
 - **90 seconds matchs**.
